@@ -33,3 +33,17 @@ Se você não possui um domínio registrado, pode adquirir um novo através da H
 
 <img src="img/Screenshot_7.png">
 
+## Passo 8:
+
+<img src="img/Screenshot_8.png">
+
+## Passo 9:
+
+<img src="img/Screenshot_9.png">
+
+## Passo 10:
+
+<img src="img/Screenshot_10.png">
+
+
+

@@ -42,11 +42,13 @@ Nesta etapa vamos precisar fazer o download de uma aplicação que gerêncie os 
 
 <img src="img/Screenshot_8.png">
 
-## Passo 9:
+## Passo 9: Acessando o servidor FTP
+Ao inserirmos corretamente as informações para efetuarmos o login no FireZilla veremos uma tela a direita do nosso munitor, essa tela contem as informações das pastas e arquivos que já estão sendo gerenciados em nosso site pelo servidor que escolhemos para a nossa hospedagem.
 
 <img src="img/Screenshot_9.png">
 
-## Passo 10:
+## Passo 10: Upando novos arquivos 
+Para fazermos o upload de novos arquivos basta que selecionemos em nosso servidor local qual é o arquivo, clicamos em cima dele e selecionamos a oopção de upload. Preste atenção a qual pasta este arquivo está sendo upado, você verifica isso do lado direito da tela e a pasta será a que está selecionada. 
 
 <img src="img/Screenshot_10.png">
 

@@ -7,7 +7,7 @@ servidor que nos fornecerá o serviço de hospedagem. Existem diversos sites que
 
 ## Passo 1: Acesse o site da Hostinger
 Abra o seu navegador e vá para o site da Hostinger em https://www.hostinger.com.br/. Em seguida, clique em "Hospedagem" no menu principal.
-<img src="img/1.png">
+<img src="img/01.png">
 
 ## Passo 2: Escolha um plano de hospedagem
 A Hostinger oferece vários planos de hospedagem. Escolha aquele que melhor atende às suas necessidades e clique em "Ver planos" ou "Comprar agora". 

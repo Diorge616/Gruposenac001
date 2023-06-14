@@ -17,6 +17,19 @@ A Hostinger oferece vários planos de hospedagem. Escolha aquele que melhor aten
 Se você não possui um domínio registrado, pode adquirir um novo através da Hostinger. Digite o nome do domínio desejado e verifique sua disponibilidade. Se estiver disponível, clique em "Adicionar ao carrinho" e siga as instruções para concluir o registro. Ao assinar um plano de hospedagem a hostinger oferece de forma gratuita um domínio.
 <img src="img/Screenshot_3.png">
 
-## 
+## Passo 4:
 
+<img src="img/Screenshot_4.png">
+
+## Passo 5:
+
+<img src="img/Screenshot_5.png">
+
+## Passo 6: 
+
+<img src="img/Screenshot_6.png">
+
+## Passo 7: 
+
+<img src="img/Screenshot_7.png">
 

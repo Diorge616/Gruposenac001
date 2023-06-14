@@ -14,7 +14,7 @@ A Hostinger oferece vários planos de hospedagem. Escolha aquele que melhor aten
 <img src="img/02.png">
 
 ## Passo 3: Registre um novo domínio (opcional)
-Se você não possui um domínio registrado, pode adquirir um novo através da Hostinger. Digite o nome do domínio desejado e verifique sua disponibilidade. Se estiver disponível, clique em "Adicionar ao carrinho" e siga as instruções para concluir o registro. Ao assinar um plano de hospedagem a hostinger oferece de forma gratuita um domínio.
+Se você não possui um domínio registrado, pode adquirir um novo através da Hostinger. Digite o nome do domínio desejado e verifique sua disponibilidade. Se estiver disponível, clique em "Adicionar ao carrinho" e siga as instruções para concluir o registro. Ao assinar um plano de hospedagem a hostinger oferece de forma gratuita um domínio. Aqui o nosso domínio é o diviproject.online que está no topo da página de hospedagem.
 <img src="img/Screenshot_3.png">
 
 ## Passo 4:
